@@ -1,0 +1,55 @@
+[
+    {
+        "actionName": "User_Login",
+        "steps": [
+            {
+                "stepId": "STEP49",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1591181480212
+            },
+            {
+                "stepId": "STEP50",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t2.inf",
+                "time": 1591181480436
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "SC02_BookingFlight_T01_LaunchPage",
+                "rawStartTime": 1591181480010,
+                "rawEndTime": 1591181480216,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04563021659851074
+            },
+            {
+                "transactionName": "SC02_BookingFlight_T02_Login",
+                "rawStartTime": 1591181480226,
+                "rawEndTime": 1591181480440,
+                "thinkTime": 0.0,
+                "wastedTime": 0.047690391540527347
+            }
+        ]
+    },
+    {
+        "actionName": "User_Signoff",
+        "steps": [
+            {
+                "stepId": "STEP51",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t3.inf",
+                "time": 1591181480645
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "SC02_BookingFlight_T07_SignOff",
+                "rawStartTime": 1591181480457,
+                "rawEndTime": 1591181480650,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04548168182373047
+            }
+        ]
+    }
+]

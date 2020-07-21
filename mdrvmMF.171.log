@@ -1,0 +1,14 @@
+Start auto log messages stack - Iteration 3.	[MsgId: MMSG-10545]
+User_Login.c(31): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+User_Login.c(31): web_url("WebTours") was successful, 10078 body bytes, 2371 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+User_Login.c(43): Notify: Transaction "SC02_BookingFlight_T01_LaunchPage" ended with a "Pass" status (Duration: 0.2168 Wasted Time: 0.0017).	[MsgId: MMSG-16871]
+User_Login.c(51): Think time - Waiting 5.00 seconds (according to limit).	[MsgId: MMSG-15946]
+User_Login.c(51): lr_think_time: 5.00 seconds (recorded think time was 10.00 seconds).	[MsgId: MMSG-15947]
+User_Login.c(53): web_reg_find started  	[MsgId: MMSG-26355]
+User_Login.c(53): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+User_Login.c(57): Notify: Transaction "SC02_BookingFlight_T02_Login" started.	[MsgId: MMSG-16999]
+User_Login.c(59): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+User_Login.c(59): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "http://127.0.0.1:1080/cgi-bin/login.pl"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

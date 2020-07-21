@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>SC02_WebTours_FlightBooking</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="User_Login.c" Filter="2" />
+    <FileEntry Name="Flight_Booking.c" Filter="2" />
+    <FileEntry Name="User_Signoff.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="SC02_WebTours_FlightBooking.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="SC02_WebTours_FlightBooking.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="InputDataset.csv" Filter="2" />
+    <FileEntry Name="server-details.csv" Filter="2" />
+    <FileEntry Name="Watches.xml" Filter="2" />
+    <FileEntry Name="combined_SC02_WebTours_FlightBooking.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="204860996440.idx" Filter="1" />
+    <FileEntry Name="56736270440.idx" Filter="1" />
+    <FileEntry Name="5673627044_1SC.237.idx" Filter="1" />
+    <FileEntry Name="5673627044_38d.963.idx" Filter="1" />
+    <FileEntry Name="5673627044_8Lp.577.idx" Filter="1" />
+    <FileEntry Name="5673627044_h0X.401.idx" Filter="1" />
+    <FileEntry Name="5673627044_IUz.373.idx" Filter="1" />
+    <FileEntry Name="5673627044_KSR.789.idx" Filter="1" />
+    <FileEntry Name="5673627044_lKv.183.idx" Filter="1" />
+    <FileEntry Name="5673627044_MTZ.943.idx" Filter="1" />
+    <FileEntry Name="5673627044_nx4.75.idx" Filter="1" />
+    <FileEntry Name="5673627044_q9K.141.idx" Filter="1" />
+    <FileEntry Name="5673627044_R7K.71.idx" Filter="1" />
+    <FileEntry Name="5673627044_RbW.595.idx" Filter="1" />
+    <FileEntry Name="5673627044_UVc.997.idx" Filter="1" />
+    <FileEntry Name="5673627044_Wxh.797.idx" Filter="1" />
+    <FileEntry Name="5673627044_wXn.291.idx" Filter="1" />
+    <FileEntry Name="5673627044_Z3e.497.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv57Y.185.log" Filter="1" />
+    <FileEntry Name="mdrv6Tv.83.log" Filter="1" />
+    <FileEntry Name="mdrvbnD.773.log" Filter="1" />
+    <FileEntry Name="mdrvCyB.457.log" Filter="1" />
+    <FileEntry Name="mdrvDjc.31.log" Filter="1" />
+    <FileEntry Name="mdrvDRT.175.log" Filter="1" />
+    <FileEntry Name="mdrvEA7.877.log" Filter="1" />
+    <FileEntry Name="mdrvfrA.505.log" Filter="1" />
+    <FileEntry Name="mdrvfx3.409.log" Filter="1" />
+    <FileEntry Name="mdrvlis.893.log" Filter="1" />
+    <FileEntry Name="mdrvm1i.715.log" Filter="1" />
+    <FileEntry Name="mdrvmMF.171.log" Filter="1" />
+    <FileEntry Name="mdrvQ3d.221.log" Filter="1" />
+    <FileEntry Name="mdrvrhJ.377.log" Filter="1" />
+    <FileEntry Name="mdrvwv0.5.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="SC02_WebTours_FlightBooking.c.pickle" Filter="1" />
+    <FileEntry Name="SC02_WebTours_FlightBooking.ci" Filter="1" />
+    <FileEntry Name="SC02_WebTours_FlightBooking.prm.bak" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>
